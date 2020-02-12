@@ -21,6 +21,14 @@ html, body {
 
 }
 
+
+
+li {
+    list-style-type: none;
+}
+
+
+
 input {
     width: 50%;
     margin-top: 20px;
@@ -56,5 +64,7 @@ input {
         display:flex;
         flex-direction: row;
     }
+
+
 }
 
