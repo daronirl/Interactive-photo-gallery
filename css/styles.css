@@ -63,7 +63,7 @@ input {
 
 @media (min-width: 1024px) {
     .container {
-        width: 100%;
+        
         display:flex;
         flex-direction: row;
     }
