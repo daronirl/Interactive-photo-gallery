@@ -63,7 +63,18 @@ input {
 
 @media (min-width: 1024px) {
     .container {
-        
+        width:80%;
+        display:flex;
+        flex-direction: row;
+    }
+
+
+}
+
+
+@media (min-width: 2560px) {
+    .container {
+        width:40%;
         display:flex;
         flex-direction: row;
     }
